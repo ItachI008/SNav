@@ -1,0 +1,1 @@
+export const GOOGLE_MAPS_API_KEY ='enter gmap api key here'
