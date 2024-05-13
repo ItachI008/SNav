@@ -14,7 +14,7 @@ SNav is a mobile application developed using React Native that serves as a Safe 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/snav.git
+   git clone https://github.com/ItachI008/snav.git
 
 
 2. Install dependencies:
@@ -59,6 +59,6 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 ## Credits
 
-SNav is developed by [Your Name](https://github.com/ItachI008).
+SNav is developed by [Balraj X](https://github.com/ItachI008),[Vaishnavi Chatram](https://github.com/ItachI008) and [Hari Acahri](https://github.com/ItachI008)
 
 
