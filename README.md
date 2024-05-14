@@ -45,16 +45,16 @@ SNav is a mobile application developed using React Native that serves as a Safe 
 
 
 7. Run the app:
--If you haven't already installed Expo CLI globally, you can do so by running:
-   npm install -g expo-cli
--Set up Firebase, Twilio, and Google Maps API as mentioned in the installation steps.
--Start the Expo Development Server:
+- If you haven't already installed Expo CLI globally, you can do so by running:
+    "npm install -g expo-cli"
+- Set up Firebase, Twilio, and Google Maps API as mentioned in the installation steps.
+- Start the Expo Development Server:
    expo start
 
 8.Running on Simulator or Device:
--If you have an iOS or Android simulator installed, you can choose to run the app on the simulator.
--Alternatively, you can install the Expo Go app on your iOS or Android device and scan the QR code shown in the terminal after running expo start. This will allow you to run the app directly on your device.
--If you have Android Emulator in your PC , Press "a" to run in android emulator.
+- If you have an iOS or Android simulator installed, you can choose to run the app on the simulator.
+- Alternatively, you can install the Expo Go app on your iOS or Android device and scan the QR code shown in the terminal after running expo start. This will allow you to run the app directly on your device.
+- If you have Android Emulator in your PC , Press "a" to run in android emulator.
 
 ## Usage
 
