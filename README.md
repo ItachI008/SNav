@@ -70,3 +70,13 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 SNav is developed by [Balraj X](https://github.com/ItachI008),[Vaishnavi Chatram](https://github.com/ItachI008) and [Hari Acahri](https://github.com/ItachI008)
 
 
+
+![Welcome](https://github.com/ItachI008/SNav/assets/90443178/ee79d15b-4de3-43bb-a79c-5e9e2eeef9a4)
+![Home](https://github.com/ItachI008/SNav/assets/90443178/b7c4d129-d009-47!![Profile](https://github.com/ItachI008/SNav/assets/90443178/a781fa9b-793e-4bc2-8446-dc22a68839bb)
+[Si![![ViewContact](https://github.com/ItachI008/SNav/assets/90443178/afe59eaf-1c38-40a5-bdd4-b82d32ca4d60)
+Tag](https://github.com/ItachI008/SNav/assets/90443178/b0cd8bea-c81b-4e92-94d4-615160e4a7ae)
+![Emer![Feedback](https://github.com/ItachI008/SNav/assets/90443178/eaba96d4-bca7-4eed-b7f3-5b6470610ebe)
+gencyContact](https://github.com/ItachI008/SNav/assets/90443178/55bc3de3-0420-402c-823e-b457ff6cf244)
+gnup](https://github.com/ItachI008/SNav/assets/90443178/6632e8c9-340b-469b-86ae-ffe123d15d18)
+b3-b5![Login](https://github.com/ItachI008/SNav/assets/90443178/0b3233c9-6635-422c-a448-394b7c551042)
+db-d81f4d7ea376)
